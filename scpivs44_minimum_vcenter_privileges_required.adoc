@@ -1,0 +1,29 @@
+---
+sidebar: sidebar 
+permalink: scpivs44_minimum_vcenter_privileges_required.html 
+keywords:  
+summary: 'Prima di iniziare l"implementazione del plug-in SnapCenter per VMware vSphere, assicurarsi di disporre dei privilegi minimi richiesti per vCenter.' 
+---
+= Sono richiesti privilegi minimi per vCenter
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Prima di iniziare l'implementazione del plug-in SnapCenter per VMware vSphere, assicurarsi di disporre dei privilegi minimi richiesti per vCenter.
+
+
+
+== Privilegi richiesti per il ruolo vCenter Admin
+
+System.Anonymous System.View System.Read Datastore.Rename Datastore.Move Datastore.Delete Datastore.Browse Datastore.FileManagement Datastore.AllocateSpace Network.Assign host.Config.Config.host.Config.Config.Config.Modif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.Verif.
+
+
+
+== Privilegi richiesti specifici del plug-in SnapCenter per VMware vCenter
+
+NetappSCV.Guest.RestoreFile netappSCV.Recovery.MountUnmount netappSCV.Backup.DeleteBackupJob netappSCV.Configure.Configure.Configure.StorageSystems.Delete netappSCV.View netappSCV.Recovery.RecoverVM netappSCV.Configure.Configure netappSCV.Configure netappConfigure.SnapnetupConfigure.SCV.BackupConfigure.AppConfigure.Snowed.SCV.AppConfigure.Subset.SCV.AppBackup.Subset.Subset
