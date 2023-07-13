@@ -12,6 +12,9 @@ settings:
     version-number: '4.7'
   - name: Plug-in SnapCenter per VMware vSphere
     url: "/sc-plugin-vmware-vsphere"
+    version-number: '4.9'
+  - name: Plug-in SnapCenter per VMware vSphere
+    url: "/sc-plugin-vmware-vsphere-48"
     version-number: '4.8'
   - name: Plug-in SnapCenter per VMware vSphere
     url: "/sc-plugin-vmware-vsphere-46"
