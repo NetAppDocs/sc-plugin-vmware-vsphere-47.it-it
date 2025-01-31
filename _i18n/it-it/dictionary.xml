@@ -1230,7 +1230,6 @@
   <block id="8bf5cf5dea41cc14b69ffe6c6732b880" category="list-text">Facoltativo: Monitorare l'avanzamento dell'operazione facendo clic su *Recent Tasks* (attività recenti) nella parte inferiore della finestra o sulla dashboard *Job Monitor* per ulteriori dettagli. Risultato</block>
   <block id="c9f88dac59bd7db8545fafc230d3c135" category="paragraph">Se l'operazione di quiesce non riesce per una delle macchine virtuali del backup, il backup viene completato con un avviso e contrassegnato come non coerente con le macchine virtuali anche se il criterio selezionato ha la coerenza delle macchine virtuali selezionata. In questo caso, è possibile che alcune macchine virtuali siano state correttamente rinunciate. Nel job monitor, i dettagli della macchina virtuale guasta mostrano la richiesta come non riuscita.</block>
   <block id="35b654fd14f12a33551c1993b5321fcb" category="summary">Il plug-in SnapCenter per VMware vSphere (SCV) è un'appliance virtuale basata su Linux. In quanto standalone, offre operazioni di backup e ripristino rapide, efficienti in termini di spazio, coerenti con i crash e coerenti con le macchine virtuali per macchine virtuali, archivi dati e VMDK. Funziona anche con il server SnapCenter per supportare operazioni di backup e ripristino basate su applicazioni in ambienti VMware per plug-in specifici dell'applicazione SnapCenter.</block>
-  <block id="8c3d0c00ea667e3e0723e5cdc6473a09" category="doc">Plug-in SnapCenter per la documentazione di VMware vSphere</block>
   <block id="e3b254eed8094c7d1beb3c3bd49d80d8" category="summary">È possibile utilizzare la console di manutenzione per ripristinare il backup più recente del database MySQL (chiamato anche database NSM) per il plug-in SnapCenter per VMware vSphere.</block>
   <block id="05cea8497a76531bc474fa00ba909484" category="doc">Ripristinare il backup più recente del database MySQL</block>
   <block id="f227596490e0b5653d6abd8ec32d7ec1" category="list-text">Aprire una finestra della console di manutenzione.</block>
@@ -1930,7 +1929,6 @@
   <block id="a3d53cfe9124531cb5f9bbfefe704326" category="sidebar">Flussi di lavoro delle API REST per modificare le pianificazioni integrate</block>
   <block id="f683581d3e75f05f9d9215f9b4696cef" category="sidebar">Eseguire l'upgrade</block>
   <block id="3da6944b1baaec4beb70694ac307fd1f" category="sidebar">Eseguire l'aggiornamento a una nuova patch della stessa release</block>
-  <block id="3390e3575b3e341afa2b7172ff5b33a7" category="sidebar">Plug-in SnapCenter per VMware vSphere</block>
   <block id="52009bb7ee17227f566cd26a02caee56" category="inline-link-macro"><block ref="52009bb7ee17227f566cd26a02caee56" category="inline-link-rx"></block></block>
   <block id="a1a9afcf552a769c282769271829889a" category="paragraph"><block ref="a1a9afcf552a769c282769271829889a" category="inline-link-macro-rx"></block></block>
   <block id="f99aa604031e5049799e73b5c3748a98" category="inline-link-macro"><block ref="f99aa604031e5049799e73b5c3748a98" category="inline-link-rx"></block></block>
@@ -1939,4 +1937,5 @@
   <block id="dd38f906b37d412de7d1c1dcf4cbf31c" category="paragraph"><block ref="dd38f906b37d412de7d1c1dcf4cbf31c" category="inline-link-macro-rx"></block></block>
   <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
   <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
+  <block id="8a7a1ff56675136d7a0bec1d5e693833" category="sidebar">Documentazione del plug-in SnapCenter per VMware vSphere 4,7</block>
 </blocks>
